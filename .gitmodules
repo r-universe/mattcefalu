@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "madr"]
+	path = madr
+	url = https://github.com/cran/madr
+	shallow = true
+	registered = true
 [submodule "twang"]
 	path = twang
 	url = https://github.com/mattcefalu/twang
+	shallow = true
+	registered = true
+[submodule "twangRDC"]
+	path = twangRDC
+	url = https://github.com/cran/twangRDC
 	shallow = true
 	registered = true

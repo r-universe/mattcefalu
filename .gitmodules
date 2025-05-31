@@ -8,6 +8,3 @@
 [submodule "twang"]
 	path = twang
 	url = https://github.com/mattcefalu/twang
-[submodule "twangRDC"]
-	path = twangRDC
-	url = https://github.com/cran/twangRDC
